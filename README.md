@@ -1,5 +1,8 @@
 # GithubFinalLab
 
-
-
-This is a Read me file used to de graded exam on coursera.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
